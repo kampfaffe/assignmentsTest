@@ -8,24 +8,6 @@
       "name": "Test2",
       "code": "Test3",
        "studentNumber": "Test4"
-    },
-    {
-      "id": 2,
-      "beginDate": "02-01-2023",
-      "endDate": "02-01-2023",
-      "class": "WWI2020H",
-      "name": "Test2",
-      "code": "Test3",
-       "studentNumber": "Test4"
-    },
-        {
-      "id": 3,
-      "beginDate": "03-01-2023",
-      "endDate": "03-01-2023",
-      "class": "WWI2020HH",
-      "name": "Test2H",
-      "code": "Test3H",
-       "studentNumber": "Test4H"
     }
   ]
 }
