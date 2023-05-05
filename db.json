@@ -7,7 +7,7 @@
       "class": "WWI2020H",
       "name": "Test2",
       "code": "Test3",
-       "studentNumber": "Test4"
+      "studentNumber": "Test4"
     },
     {
       "id": 2,
@@ -16,7 +16,16 @@
       "class": "WWI2020H",
       "name": "Test2",
       "code": "Test3",
-       "studentNumber": "Test4"
+      "studentNumber": "Test4"
+    },
+    {
+      "id": 3,
+      "beginDate": "01-01-2023",
+      "endDate": "01-01-2023",
+      "class": "WWI2020H",
+      "name": "Test2",
+      "code": "Test3",
+      "studentNumber": "Test4"
     }
   ]
 }
