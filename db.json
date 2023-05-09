@@ -26,6 +26,15 @@
       "name": "Test2",
       "code": "Test3",
       "studentNumber": "Test4"
+    },
+        {
+      "id": 4,
+      "beginDate": "10-05-2023",
+      "endDate": "18-06-2023",
+      "class": "WWI2020H",
+      "name": "Webürogrammierung",
+      "code": "Test3",
+      "studentNumber": "Test4"
     }
   ]
 }
