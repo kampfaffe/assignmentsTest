@@ -2,45 +2,45 @@
   "assignments": [
     {
       "id": 1,
-      "beginDate": "01.01.2023",
+      "startDate": "01.01.2023",
       "endDate": "01.01.2023",
-      "class": "WWI2020H",
+      "course": "WWI2020H",
       "name": "Test2",
       "code": "Test3",
       "studentNumber": "Test4",
       "status": "Abgegeben",
-      "note": "",
+      "grade": "",
       "comment": "Nice try!",
       "report": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet," 
     },
     {
       "id": 2,
-      "beginDate": "01.01.2023",
+      "startDate": "01.01.2023",
       "endDate": "01.01.2023",
-      "class": "WWI2020H",
+      "course": "WWI2020H",
       "name": "Test2",
       "code": "Test3",
       "studentNumber": "Test4",
       "status": "Bewertet",
-      "note": "5",
+      "grade": "5",
       "comment": "Nice try!",
       "report": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet," 
   
     },
     {
       "id": 3,
-      "beginDate": "01.01.2023",
+      "startDate": "01.01.2023",
       "endDate": "01.01.2023",
-      "class": "WWI2020H",
+      "course": "WWI2020H",
       "name": "Test2",
       "code": "Test3",
       "studentNumber": "Test4"
     },
         {
       "id": 4,
-      "beginDate": "10.05.2023",
+      "startDate": "10.05.2023",
       "endDate": "18.06.2023",
-      "class": "WWI2020H",
+      "course": "WWI2020H",
       "name": "Webprogrammierung",
       "code": "Test3",
       "studentNumber": "Test4"
