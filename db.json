@@ -47,9 +47,9 @@
     },
             {
       "id": 5,
-      "beginDate": "11.05.2023",
+      "startDate": "11.05.2023",
       "endDate": "20.06.2023",
-      "class": "WWI2021H",
+      "course": "WWI2021H",
       "name": "Webprogrammierung",
       "code": "Test3",
       "studentNumber": "Test4"
